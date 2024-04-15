@@ -362,7 +362,7 @@
     ]
   },
 	  {
-    "name": "⚽COPA DE PRIMERA E INTERMEDIA",
+    "name": "⚽TIGO SPORTS PARAGUAY",
     "samples": [
       {
         "name": "TIGO SPORTS 1",
@@ -1959,38 +1959,7 @@
  {
     "name": "🇧🇷BRASIL",
     "samples": [
-	    	          {
-        "name": "LIVE 1 HD",
-        "uri": "https://testphp07.alwaysdata.net/okru/7372399320789.m3u8",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-      },
-	    
 	
-    
-       {
-        "name": "LIVE 2",
-        "uri": "https://testphp07.alwaysdata.net/okru/7372402597589.m3u8",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-	    },
-	    
-	    {
-        "name": "LIVE 3",
-        "uri": "https://cdnhd.iblups.com/hls/6YZ5NY6EZQ.m3u8",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-	    },
-	   	          {
-        "name": "LIVE 1 OPCION 2",
-        "uri": "https://cdnhd.iblups.com/hls/L9HUEEELBT.m3u8",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-      },
-	    
-	
-    
-       {
-        "name": "LIVE 2 OPCION 2",
-        "uri": "https://cdnhd.iblups.com/hls/USP27A5IQE.m3u8",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-	    },
       {
         "name": "GLOBO BAHIA",
         "uri": "https://transcoder.proxy.tokplay.com.br/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8",
