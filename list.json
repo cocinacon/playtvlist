@@ -288,9 +288,9 @@
    
 {
                 "name": "ESPN",
-                "uri": "https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(ESPN_SUR)/manifest.mpd",
+                "uri": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ff6b197eb75c2a4f684e6cc57d0f85f&key=ddd14e5c1a631f8f246aebd4963389fd",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
             },
             {
