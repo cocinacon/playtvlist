@@ -2796,16 +2796,8 @@
         "name": "Red Uno",
         "uri": "https://magmas5.com:8000/live/UKONMK78C3/6XA15D0TF9/148944.m3u8",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/a/af/Red_UNO_1985-0.png"
-      },
-	      {
-        "name": "RED UNO 2",
-        "uri": "https://sam-py-edge02.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.m3u8?ccur_fmt_type=fmp4",
-	       "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8d8bfb76315e4fc6ba1328e1d8870bd&key=eb27c40de4c406980e473fb6233fc897",
-       
-        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-      
       }
+	
     ]
     },
 		 {
