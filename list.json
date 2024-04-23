@@ -372,18 +372,18 @@
     "samples": [
       {
         "name": "TIGO SPORTS 1",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport/index.m3u8?token=OI0GRErh",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport/index.m3u8?token=fEM9lq7f",
         
         "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
       },
     {
         "name": "TIGO SPORTS PLUS",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_plus/index.m3u8?token=OI0GRErh",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_plus/index.m3u8?token=fEM9lq7f",
         "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
       },
 	        {
         "name": "TIGO SPORTS 3",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_3/index.m3u8?token=OI0GRErh",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_3/index.m3u8?token=fEM9lq7f",
         
         "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
       }
