@@ -367,26 +367,7 @@
 
     ]
   },
-	  {
-    "name": "⚽TIGO SPORTS PARAGUAY SALIR DE LA APLICACIÓN Y VOLVER A ENTRAR SI NO TE FUNCIONA",
-    "samples": [
-      {
-        "name": "TIGO SPORTS 1",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport/index.m3u8?token=Cn9TylnO",
-        
-        "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
-      },
-    {
-        "name": "TIGO SPORTS PLUS",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_plus/index.m3u8?token=Cn9TylnO",
-        "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
-      },
-	        {
-        "name": "TIGO SPORTS 3",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_3/index.m3u8?token=Cn9TylnO",
-        
-        "icono": "https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg"
-      }
+	
    
        ]
   },
