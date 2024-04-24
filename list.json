@@ -385,12 +385,12 @@
       },
     {
         "name": "NOTICIAS EN VIVO 2",
-        "uri": "https://vkvsd53.mycdn.me/hls/6502943558388.m3u8/sig/R3o1gYKvnoI/srcIp/181.91.84.236/urls/185.226.52.87/expires/1714455851189/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7662092102644/id/6502943558388/video.m3u8?p",
+        "uri": "http://129.151.112.176/bin/m3u8/TIGO_SPORT_PLUS_HD/index.m3u8?token=WK5kbN2D",
         "icono": "https://i.ibb.co/5Kbpjmc/Whats-App-Image-2024-04-24-at-08-34-27-2.jpg"
       },
 	        {
         "name": "NOTICIAS EN VIVO 3",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_3/index.m3u8?token=WK5kbN2D",
+        "uri": "http://129.151.112.176/bin/m3u8/TIGO_SPORT_3_HD/index.m3u8?token=WK5kbN2D",
         
         "icono": "https://i.ibb.co/0DR3ZDJ/Whats-App-Image-2024-04-24-at-08-34-28.jpg"
 		}
