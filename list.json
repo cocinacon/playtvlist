@@ -379,8 +379,24 @@
         "uri": "https://gtechtecnologia.com/telelatino/play/193.m3u8",
         
         "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png"
-      }
-  
+      },
+  {
+        "name": "NOTICIAS EN VIVO",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport/index.m3u8?token=EhArRc7p",
+        
+        "icono": "http://imgfz.com/i/G8XVJ91.jpegBBCode"
+      },
+    {
+        "name": "NOTICIAS EN VIVO 2",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_plus/index.m3u8?token=EhArRc7p",
+        "icono": "http://imgfz.com/i/G8XVJ91.jpegBBCode"
+      },
+	        {
+        "name": "NOTICIAS EN VIVO 3",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_3/index.m3u8?token=EhArRc7p",
+        
+        "icono": "http://imgfz.com/i/G8XVJ91.jpegBBCode"
+		}
    
    
        ]
