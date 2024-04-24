@@ -379,18 +379,18 @@
       },
   {
         "name": "NOTICIAS EN VIVO",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport/index.m3u8?token=EhArRc7p",
+        "uri": "http://129.151.112.176/bin/m3u8/TIGO_SPORT/index.m3u8?token=WK5kbN2D",
         
         "icono": "http://imgfz.com/i/G8XVJ91.jpegBBCode"
       },
     {
         "name": "NOTICIAS EN VIVO 2",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_plus/index.m3u8?token=EhArRc7p",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_plus/index.m3u8?token=WK5kbN2D",
         "icono": "http://imgfz.com/i/G8XVJ91.jpegBBCode"
       },
 	        {
         "name": "NOTICIAS EN VIVO 3",
-        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_3/index.m3u8?token=EhArRc7p",
+        "uri": "http://159.112.139.15/bin/m3u8/Tigo_sport_3/index.m3u8?token=WK5kbN2D",
         
         "icono": "http://imgfz.com/i/G8XVJ91.jpegBBCode"
 		}
