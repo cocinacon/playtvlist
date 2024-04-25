@@ -866,17 +866,11 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
       },
-      {
-        "name": "PASIONES",
-        "uri": "https://edge-live01-bel.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
-        "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
-      },
-      {
-        "name": "TL NOVELAS",
-        "uri": "https://gtechtecnologia.com/telelatino/play/56.m3u8",
-        "icono":"https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
+    {
+        "name": "DISTRITO COMEDIA",
+        "uri": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8",
+  
+        "icono": "https://yt3.googleusercontent.com/iDQOC32YNT1m3VcyHDJ0zCpkVwr2AO4JBKpsgNINFan085M67p5944PvZShUFEFZF4ZouPqdgA=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
@@ -903,6 +897,12 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909",
         "icono": "https://i.ibb.co/vqF1RTN/co-space-hd-m.png"
+      },
+	      {
+        "name": "LIFETIME",
+        "uri": "https://worker-fancy-cell-b2c6.tempdev.workers.dev/https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+      
+        "icono": "https://play-lh.googleusercontent.com/58G_-PnbEnv2uPJCYz9968LwX0P4PEJ6xIYe7OpxqyKLLwYRyufgeiEO9txxUj64zuNX"
       },
       {
         "name": "STAR CHANNEL",
