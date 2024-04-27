@@ -72,7 +72,9 @@
       },
        {
         "name": "EVENTOS STAR 2",
-        "uri": "https://jactvpro.xyz/s0l32line/RRzkDRt6w8/10211.m3u8",
+        "uri": "https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc603bd4cbdaae7f9debc7accca10266&key=bb2ed19b76e7bd6cb8ad228b4a79827c",
         "icono": "http://imgfz.com/i/z1wOX9T.png"
       },
        {
