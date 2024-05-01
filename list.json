@@ -401,11 +401,7 @@
         
         "icono": "https://i.ibb.co/0DR3ZDJ/Whats-App-Image-2024-04-24-at-08-34-28.jpg"
 		},
-	      {
-        "name": "LA 1 ESPAÑA",
-        "uri": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png"
-      },
+
 	      {
         "name": "LA 2 ESPAÑA",
         "uri": "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8",
