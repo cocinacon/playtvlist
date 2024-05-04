@@ -407,12 +407,12 @@
 		},
 	     {
         "name": "NOTICIAS EN VIVO 1 OPCIÓN 2",
-        "uri": "https://vkvsd198.mycdn.me:443/hls/6542697630452.m3u8/sig/5Y2ACpuyE_0/srcIp/185.231.204.41/urls/45.136.22.86/expires/1715232743958/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7688634510324/id/6542697630452/6542697630452_high/index.m3u8",
+        "uri": "http://192.250.238.31:1234/stream/tigoka/tigosports11/master.m3u8?u=yae&p=8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
         "icono": "https://i.ibb.co/J2VqN4C/Whats-App-Image-2024-04-24-at-08-34-27.jpg"
       },
 {
         "name": "NOTICIAS EN VIVO 2 OPCIÓN 2",
-        "uri": "https://vkvsd54.mycdn.me:443/hls/6542533528308.m3u8/sig/bfSMm0LWc_A/srcIp/185.231.204.41/urls/45.136.20.60/expires/1715232755681/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7688496622580/id/6542533528308/6542533528308_high/index.m3u8",
+        "uri": "http://192.250.238.31:1234/stream/tigoka/tigosportsplus/stream.m3u8?uid=4034551846&u=yae&p=8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
         "icono": "https://i.ibb.co/5Kbpjmc/Whats-App-Image-2024-04-24-at-08-34-27-2.jpg"
       },
    
