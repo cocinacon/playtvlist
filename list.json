@@ -424,11 +424,7 @@
         "name": "NOTICIAS EN VIVO 2 OPCIÓN 3",
         "uri": "https://vkvsd89.mycdn.me/hls/6550781496052.m3u8/sig/1OEU2hnyHU4/srcIp/209.14.68.66/urls/185.226.53.70/expires/1715402393781/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/7693742386164/id/6550781496052/video.m3u8?p",
         "icono": "https://i.ibb.co/5Kbpjmc/Whats-App-Image-2024-04-24-at-08-34-27-2.jpg"
-      },	     {
-        "name": "NOTICIAS EN VIVO 1 OPCIÓN 4",
-        "uri": "https://jellyfin.es/videos/16e92bfa-4eaa-6b25-25bd-2aac9308a3dd/master.m3u8?DeviceId=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDExOyBTTS1BMzA3RyBCdWlsZC9SUDFBLjIwMDcyMC4wMTI7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvMTIzLjAuNjMxMi4xMjAgTW9iaWxlIFNhZmFyaS81MzcuMzZ8MTcxNDY4MTUzMDE0MA11&MediaSourceId=abcef2c3fdf8fdabdeb31a128ee96be5&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=2763145&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=50&PlaySessionId=de0ed5cbc1144601bc626fdc65cc8e22&api_key=de055df0bb5b44daa0d032e3f7d1b8a6&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_abcef2c3fdf8fdabdeb31a128ee96be5&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&h264-level=42&h264-videobitdepth=8&h264-profile=high&h264-audiochannels=2&aac-profile=lc&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=ContainerNotSupported",
-        "icono": "https://i.ibb.co/J2VqN4C/Whats-App-Image-2024-04-24-at-08-34-27.jpg"
-      },
+      },	 
 
 	      {
         "name": "LA 2 ESPAÑA",
