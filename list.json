@@ -2820,8 +2820,8 @@
         "icono": "https://i.ibb.co/QDcfX4Y/1691081718835.jpg"
       },
       {
-        "name": "RED UNO 2",
-        "uri": "https://maiktv.x10.mx/python/index.m3u8",
+        "name": "RED UNO 3",
+        "uri": "https://jellyfin.es/videos/16e92bfa-4eaa-6b25-25bd-2aac9308a3dd/master.m3u8?DeviceId=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDExOyBTTS1BMzA3RyBCdWlsZC9SUDFBLjIwMDcyMC4wMTI7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvMTIzLjAuNjMxMi4xMjAgTW9iaWxlIFNhZmFyaS81MzcuMzZ8MTcxNDY4MTUzMDE0MA11&MediaSourceId=abcef2c3fdf8fdabdeb31a128ee96be5&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=2763145&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=50&PlaySessionId=de0ed5cbc1144601bc626fdc65cc8e22&api_key=de055df0bb5b44daa0d032e3f7d1b8a6&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_abcef2c3fdf8fdabdeb31a128ee96be5&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/a/af/Red_UNO_1985-0.png"
       }
 	
