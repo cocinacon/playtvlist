@@ -424,7 +424,7 @@
 	    
  {
         "name": "NOTICIAS EN VIVO 1 OPCIÓN 3",
-        "uri": "http://129.151.112.176/bin/m3u8/TIGO_SPORT_HD/index.m3u8?token=WK5kbN2D",
+        "uri": "http://172.105.185.107:1234/stream/my_channels/tigosporthd/stream.m3u8?uid=2669356073&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d",
         "icono": "https://i.ibb.co/J2VqN4C/Whats-App-Image-2024-04-24-at-08-34-27.jpg"
       },
 {
