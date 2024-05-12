@@ -387,7 +387,7 @@
       },
      {
         "name": "NOTICIAS EN VIVO 1",
-        "uri": "http://116.202.243.24:1234/stream/my_channels/tigosporthd/stream.m3u8?uid=2308247407&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d",
+        "uri": "http://pablipintos.top/tigo1.m3u8",
         "icono": "https://i.ibb.co/J2VqN4C/Whats-App-Image-2024-04-24-at-08-34-27.jpg"
       },
 {
@@ -405,7 +405,7 @@
 	   
 	    {
         "name": "NOTICIAS EN VIVO OPCION 2",
-        "uri": "http://pablipintos.top/tigo1.m3u8",
+        "uri": "http://116.202.243.24:1234/stream/my_channels/tigosporthd/stream.m3u8?uid=2308247407&u=localhost&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d",
         "icono": "https://i.ibb.co/J2VqN4C/Whats-App-Image-2024-04-24-at-08-34-27.jpg"
       },
 	    
