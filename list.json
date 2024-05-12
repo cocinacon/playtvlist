@@ -385,6 +385,11 @@
         
         "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png"
       },
+	         {
+        "name": "CERRO VS OLIMPIA",
+        "uri": "https://vsd121.mycdn.me/hls/6672451373587.m3u8/sig/DwtC48HyQmE/expires/1715622487611/srcIp/190.175.51.87/urls/45.136.21.61/clientType/1/srcAg/UNKNOWN_ANDROID/mid/7975686577683/video.m3u8?p",
+        "icono": "https://media.tycsports.com/files/2024/05/10/715419/cerro-porteno-vs-olimpia-en-vivo-como-llegan-al-partido_862x485_wmk.webp"
+      },
      {
         "name": "NOTICIAS EN VIVO 1",
         "uri": "https://pablipintos.top/tigo1.m3u8",
