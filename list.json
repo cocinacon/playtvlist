@@ -2,7 +2,7 @@
  
 
   {
-    "name": "⚽ DEPORTES NACIONALES E INTERNACIONALES",
+    "name": "⚽ DEPORTES INTERNACIONALES",
     "samples": [
       {
         "name": "GOL CARACOL",
@@ -23,42 +23,7 @@
       },
 	    
 
-       {
-        "name": "SPORT TV 1",
-        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/27204?join.the.Billybob.fan.club",
-        "icono": "https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8="
-      },
-      {
-     
-        "name": "SPORT TV 2",
-        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/27202?join.the.Billybob.fan.club",
-        "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV2.jpg"
-      },
-    
-      {
-     
-        "name": "SPORT TV 3",
-        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/27203?join.the.Billybob.fan.club",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg"
-      },
-	      {
-        "name": "PREMIERE",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
-	       "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
-       
-        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-      },
-      {
-        "name": "PREMIERE 2",
-        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4?join.the.Billybob.fan.club",
-        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
-      },
-	    	    {
-        "name": "PREMIERE 3",
-        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6?join.the.Billybob.fan.club",
-        "icono": "https://i.ibb.co/hy5M2fm/f73d77346f52e03b5654d65fc4aba890.jpg"
-      },
+
 	   {
         "name": "EVENTOS MLS",
         "uri": "http://pablipintos.top/mls.m3u8",
@@ -133,11 +98,6 @@
         }, 
 
  
-       {
-        "name": "EVENTO PAULISTA",
-        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33?join.the.Billybob.fan.club",
-        "icono": "https://i.postimg.cc/Vsxy1yNF/descarga-58.jpg"
-      },
 
       {
         "name": "DAZN 1",
@@ -187,52 +147,7 @@
         "icono": "http://imgfz.com/i/LwMKAmG.png"
       },
      
-      {
-        "name": "TYC SPORTS",
-        "uri": "https://edge-mix04-coe.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
-      },
-      {
-        "name": "TYC SPORT INTERNACIONAL",
-        "uri": "http://budtvlight.com:25461/live/bud-1114762/ab7a40e6ba/69636.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-	
-	{
-        "name": "TYC SPORT (PLAY 1)",
-        "uri": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 2)",
-        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 3)",
-        "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 4)",
-        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      {
-        "name": "TYC SPORT (PLAY 5)",
-        "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
-      },
-      
-      {
-        "name": "TNT SPORT HD",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
-	 "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
-      },
+
 	
       {
         "name": "FOX SPORTS 1",
@@ -344,13 +259,7 @@
                 "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
             },
   
-         {
-        "name": "ESPN PREMIUM",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
-      },
+       
   
       {
         "name": "ESPN MEXICO",
@@ -376,6 +285,165 @@
     ]
   },
 	
+	  {
+    "name": "⚽PACK FUTBOL ARGENTINO",
+    "samples": [
+{
+                "name": "ESPN",
+                "uri": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+                "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
+            },
+	      {
+        "name": "ESPN PREMIUM",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
+      },
+	          {
+        "name": "TYC SPORTS",
+        "uri": "https://edge-mix04-coe.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+      {
+        "name": "TYC SPORT INTERNACIONAL",
+        "uri": "http://budtvlight.com:25461/live/bud-1114762/ab7a40e6ba/69636.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+	
+	{
+        "name": "TYC SPORT (PLAY 1)",
+        "uri": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 2)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 3)",
+        "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 4)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 5)",
+        "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      
+      {
+        "name": "TNT SPORT HD",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      },      {
+        "name": "TYC SPORTS",
+        "uri": "https://edge-mix04-coe.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+      {
+        "name": "TYC SPORT INTERNACIONAL",
+        "uri": "http://budtvlight.com:25461/live/bud-1114762/ab7a40e6ba/69636.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+	
+	{
+        "name": "TYC SPORT (PLAY 1)",
+        "uri": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 2)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 3)",
+        "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 4)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      {
+        "name": "TYC SPORT (PLAY 5)",
+        "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
+        "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg"
+      },
+      
+      {
+        "name": "TNT SPORT HD",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+	 "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
+      }
+
+    ]
+  },
+	  {
+    "name": "⚽PACK FUTBOL BRASILERO",
+    "samples": [
+             {
+        "name": "SPORT TV 1",
+        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/27204?join.the.Billybob.fan.club",
+        "icono": "https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8="
+      },
+      {
+     
+        "name": "SPORT TV 2",
+        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/27202?join.the.Billybob.fan.club",
+        "icono": "https://afftvvolei.com.br/wp-content/uploads/2023/01/SporTV2.jpg"
+      },
+    
+      {
+     
+        "name": "SPORT TV 3",
+        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/27203?join.the.Billybob.fan.club",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg"
+      },
+	      {
+        "name": "PREMIERE",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
+	       "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+       
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+      },
+      {
+        "name": "PREMIERE 2",
+        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4?join.the.Billybob.fan.club",
+        "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
+      },
+	    	    {
+        "name": "PREMIERE 3",
+        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6?join.the.Billybob.fan.club",
+        "icono": "https://i.ibb.co/hy5M2fm/f73d77346f52e03b5654d65fc4aba890.jpg"
+      },
+	       {
+        "name": "EVENTO PAULISTA",
+        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33?join.the.Billybob.fan.club",
+        "icono": "https://i.postimg.cc/Vsxy1yNF/descarga-58.jpg"
+      
+	       }
+
+    ]
+  },
   {
     "name": "📺NOTICIEROS",
     "samples": [
