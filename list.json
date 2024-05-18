@@ -26,7 +26,7 @@
 
 	   {
         "name": "EVENTOS MLS",
-        "uri": "http://pablipintos.top/mls.m3u8",
+        "uri": "https://jeinzmacias96.s3.us-west-2.amazonaws.com/hls/0/stream.m3u8",
          "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
       },
        {
