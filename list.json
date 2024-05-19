@@ -4,6 +4,12 @@
   {
     "name": "⚽ DEPORTES INTERNACIONALES",
     "samples": [
+           {
+        "name": "FIFA+",
+        "uri": "https://8deea4ad.wurl.com:443/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/../../../manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/998b02ea-9fc6-44ea-9ed7-4febb725b977/5.m3u8",
+        "icono": "http://imgfz.com/i/0pKjWM6.jpeg"
+      },
+     
       {
         "name": "GOL CARACOL",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/254191",
