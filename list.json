@@ -127,7 +127,16 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
       },
-
+     {
+        "name": "DAZN 3",
+        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/12364",
+    "icono": "https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest?cb=20220119161736"
+      },
+	      {
+        "name": "DAZN 4",
+        "uri": "http://fastream.xyz:8080/NuestroPropio@Restreamer/UltraPremium-2023/12363",
+    "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest?cb=20220119162341"
+      },
       {
         "name": "DEPORTV",
         "uri": "https://edge-live01-cte.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
