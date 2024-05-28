@@ -438,8 +438,10 @@
 	    
 	  {
         "name": "NOTICIAS EN VIVO 3",
-        "uri": "https://vsd203.mycdn.me/hls/6743457335827.m3u8/sig/91VhyzTqnOY/expires/1716758112432/srcIp/190.175.1.215/urls/45.136.20.64/clientType/1/srcAg/UNKNOWN_ANDROID/mid/8018278686227/video.m3u8?p",
-        
+        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+         "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+      
         "icono": "https://i.ibb.co/0DR3ZDJ/Whats-App-Image-2024-04-24-at-08-34-28.jpg"
 	  },  
 	   
