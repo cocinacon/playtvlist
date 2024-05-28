@@ -436,13 +436,13 @@
         "name": "NOTICIAS EN VIVO 1",
         "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/6356b4596cbd4627bc8620607ebd6106/index.mpd",
 	         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+        "drm_license_uri": "https://pablipintos.top/tigo1.json",
       
         "icono": "https://i.ibb.co/J2VqN4C/Whats-App-Image-2024-04-24-at-08-34-27.jpg"
       },
 {
         "name": "NOTICIAS EN VIVO 2",
-        "uri": "http://pablipintos.top/tigoplus.m3u8",
+        "uri": "https://d2jluxxgx550su.cloudfront.net/out/v1/d26818b69b804b629c0f190e509a42b2/index.mpd",
            "drm_scheme": "clearkey",
         "drm_license_uri": "https://pablipintos.top/tigoplus.json",
       
@@ -450,18 +450,11 @@
       },
 	    
 	  {
-        "name": "NOTICIAS EN VIVO 3",
-        "uri": "https://d2slu3qf332d0d.cloudfront.net/out/v1/4ca8d5dff4d44fff8e9201692dbc3d5d/index.mpd",
-         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pablipintos.top/tigo3.json",
-      
+        "name": "NOTICIAS EN VIVO INTERMEDIA",
+        "uri": "http://pablipintos.top/tigo1.m3u8",
         "icono": "https://i.ibb.co/0DR3ZDJ/Whats-App-Image-2024-04-24-at-08-34-28.jpg"
 	  },  
-	         {
-        "name": "NOTICIAS EN VIVO INTERMEDIA",
-        "uri": "http://pablipintos.top/m3u82/top1.m3u8",
-        "icono": "https://i.ibb.co/J2VqN4C/Whats-App-Image-2024-04-24-at-08-34-27.jpg"
-      },
+	
 	    {
         "name": "NOTICIAS EN VIVO OPCION 2",
         "uri": "http://pablipintos.top/m3u82/top1.m3u8",
