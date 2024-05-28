@@ -2110,7 +2110,14 @@
  {
     "name": "🇦🇷CANALES DE ARGENTINA",
     "samples": [
-      {
+     
+	{
+        "name": "GRAN HERMANO DTVGO",
+         "uri": "https://mail.langagroup.com:8080/live/Megatv/Restreamtv56/119442.m3u8", 
+        "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
+      },    
+    
+     {
         "name": "TELEFE",
         "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
 	"drm_scheme": "clearkey",
