@@ -2914,13 +2914,7 @@
         "uri": "https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8",
         "icono": "https://i.ibb.co/QDcfX4Y/1691081718835.jpg"
       },
-	     {
-        "name": "DAZN 1",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://pablipintos.top/daznkeys.json",
-        "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
-      }, 
+
       {
         "name": "RED UNO 3",
         "uri": "https://jellyfin.es/videos/16e92bfa-4eaa-6b25-25bd-2aac9308a3dd/master.m3u8?DeviceId=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDExOyBTTS1BMzA3RyBCdWlsZC9SUDFBLjIwMDcyMC4wMTI7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvMTIzLjAuNjMxMi4xMjAgTW9iaWxlIFNhZmFyaS81MzcuMzZ8MTcxNDY4MTUzMDE0MA11&MediaSourceId=abcef2c3fdf8fdabdeb31a128ee96be5&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=2763145&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=50&PlaySessionId=de0ed5cbc1144601bc626fdc65cc8e22&api_key=de055df0bb5b44daa0d032e3f7d1b8a6&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_abcef2c3fdf8fdabdeb31a128ee96be5&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=",
