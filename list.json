@@ -1694,7 +1694,13 @@
         "uri": "https://gtechtecnologia.com/telelatino/play/191.m3u8",
         "icono": "http://imgfz.com/i/36uZ9fb.jpeg"
       },
-	          {
+	          
+                {
+      "name": "CASO CERRADO",
+        "uri": "https://gtechtecnologia.com/telelatino/play/175.m3u8",
+        "icono": "https://i.postimg.cc/5Ns66LPV/images.jpg"
+      },
+     {
       "name": "LA ROSA DE GUADALUPE",
         "uri": "https://gtechtecnologia.com/telelatino/play/189.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLj9AeZpyMhq1x_kfFGav_O_QvUQi90AJErsihoygvWmxaEz2y"
