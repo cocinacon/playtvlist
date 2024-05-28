@@ -291,7 +291,14 @@
         "uri": "https://gtechtecnologia.com/telelatino/play/244.m3u8",
         "icono": "https://onlinefutbollibre.com/wp-content/uploads/2023/10/ESPN-3-Mexico.webp"
       },
-	          {
+	},
+	      {
+        "name": "GOL PERU",
+        "uri": "http://mail.langagroup.com:8080/live/Megatv/Restreamtv56/143529.m3u8",
+        "icono": "https://i.postimg.cc/Y04cx4ch/descarga.jpg"
+      },          
+	    
+	{
         "name": "GOL TV",
         "uri": "http://45.166.92.22:58001/play/a04k/29442034.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png"
