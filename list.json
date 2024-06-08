@@ -45,7 +45,7 @@
         "name": "EVENTOS STAR 2",
         "uri": "https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bc603bd4cbdaae7f9debc7accca10266&key%5B%5D=bb2ed19b76e7bd6cb8ad228b4a79827c",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=bc603bd4cbdaae7f9debc7accca10266&key=bb2ed19b76e7bd6cb8ad228b4a79827c",
         "icono": "http://imgfz.com/i/z1wOX9T.png"
       },
        {
@@ -92,14 +92,14 @@
         "name": "VTV",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b96960aa715a4e51b7e952e81c99ac8e&key%5B%5D=5bbffc680764dbd63d90b774b3aa0c0a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
       },
       {
         "name": "VTV PLUS",
         "uri": "https://edge-live17-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=da8a49a594160cc0059f07b9f71cd39a&key%5B%5D=37ca91dd799b351a02445151c7f61070",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
         }, 
 
@@ -109,20 +109,20 @@
         "name": "DAZN 1",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=44dd9cd370b08a868ead115fe84ecfde&key%5B%5D=bff19ab0a51cf14e848389b152913fd0",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=44dd9cd370b08a868ead115fe84ecfde&key=bff19ab0a51cf14e848389b152913fd0",
         "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
       },
            {
         "name": "DAZN  2  DE",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0eab5a3f3e3b4ba5d42d40ca30d17571&key%5B%5D=f3f061ded9b70e8160590d5802ecda6d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0eab5a3f3e3b4ba5d42d40ca30d17571&key=f3f061ded9b70e8160590d5802ecda6d",
         "icono": "https://i.ibb.co/zVyXvjM/dazn2.png"
       },
        {
                 "name": "DAZN  F1",
 "drm_scheme": "clearkey",
-"drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1061be12d303247426ec25e8369b2647&key%5B%5D=bd622b0e610295de3b0bccb850ccaaaa",
+"drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa",
                 "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
                 "icono": "https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png"
             },
@@ -130,7 +130,7 @@
         "name": "DAZN LA LIGA",
         "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=43d1c3b25207ff38b22ccfe17d302367&key%5B%5D=7b1f85f6e81059473b114c16a25c829a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM6On2c3sZTpdN5TBqdxkfyK5cFdWSW3edVILEGDizarR95qaEJvfTw_5IuReWzmlBH0&usqp=CAU"
       },
      {
@@ -147,7 +147,7 @@
         "name": "DEPORTV",
         "uri": "https://edge-live01-cte.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
 	           "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f362097815892a4b83950f1d106ff0b2&key%5B%5D=4349e42e81c31a8389f4a42fcd298928",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=f362097815892a4b83950f1d106ff0b2&key=4349e42e81c31a8389f4a42fcd298928",
         "icono": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg"
       },
       {
@@ -168,7 +168,7 @@
         "name": "FOX SPORTS 1",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cbc2a0c7a38df0aa3333cd71841d3b0d&key%5B%5D=aac61b730e2ac1df23f1e872e7541c1b",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png"
       },
      
@@ -176,14 +176,14 @@
         "name": "FOX SPORTS 2 ",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c98ddffc470fe449ae1a8d6492116976&key%5B%5D=5086d370e840010232cf4532b16e197f",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
         "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png"
       },
       {
         "name": "FOX SPORTS3",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=55b47390cf9e4997dae6dac85e057875&key%5B%5D=fa39e855543c5d70f30600d59e5e4c1b",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
         "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
       },
         {
@@ -221,56 +221,56 @@
                 "name": "ESPN",
                 "uri": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e884b711ab111beb8a7ba1e7bcbdc9bf&key%5B%5D=cb89ee3961599e3e648a5aad60895f34",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
             },
             {
                 "name": "ESPN 2 SUDAMERICA",
                 "uri": "https://chromecast.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4cbc5f5cbac72d38371bb63309e4a9d2&key%5B%5D=dbc8de27da9726cd2e7659abb08e86ef",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
                 "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
             },
 	        {
                 "name": "ESPN 2 ARGENTINA",
                 "uri": "https://edge6-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=65a5bfa3c7a72dde60be9b0c7406c8fc&key%5B%5D=0b40ae9f78a7bac3b57ecbf72d3c081e",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
                 "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
             },
             {
                 "name": "ESPN 3",
                 "uri": "https://edge-live02-mun.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4c9f97e2a36feab0e5077f2b44cbc4e&key%5B%5D=1743cd03dfe3736b2c95da91a783af38",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
                 "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png"
             },
             {
                 "name": "ESPN 4",
                 "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc8d44406ed6bf1898ad9f7a2d64f29e&key%5B%5D=fb85d059687ab0fc67805806204edbdf",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
                 "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png"
             },
             {
                 "name": "ESPN 5",
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=24f2b3e741f0d9e9a8d516faff38bddc&key%5B%5D=bbd3fd02fb104e1463ac528a13f67e4a",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
                 "icono": "https://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png"
             },
             {
                 "name": "ESPN 6",
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5fc7b662e69c0fbf8d39691166b1c919&key%5B%5D=89157cdd25df25d56f1ecccee3850888",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
                 "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png"
             },
             {
                 "name": "ESPN 7",
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5fc7b662e69c0fbf8d39691166b1c919&key%5B%5D=89157cdd25df25d56f1ecccee3850888",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
                 "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png"
             },
   
@@ -314,14 +314,14 @@
                 "name": "ESPN",
                 "uri": "https://edge-mix05-coe.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e884b711ab111beb8a7ba1e7bcbdc9bf&key%5B%5D=cb89ee3961599e3e648a5aad60895f34",
+                "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
                 "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png"
             },
 	      {
         "name": "ESPN PREMIUM",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4c230dbc7f6a4bfa6ad0aa73ff792374&key%5B%5D=4186a7c2a15f590a9399886feaec4257",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
       },
 	
@@ -330,7 +330,7 @@
         "name": "TYC SPORTS",
         "uri": "https://edge-mix04-coe.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=2b21c8fa9a329cce311a4c4a4aa996a1&key%5B%5D=cc23ea1fb32629f9e1f48c8deeae3e5b",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
       },
       {
@@ -369,7 +369,7 @@
         "name": "TNT SPORT HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
 	 "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bc80fa3da696e503f940fde5f681a1c5&key%5B%5D=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://i.ibb.co/dLJd4bz/TNT-Sports-logo-2021.png"
       }
 
@@ -400,7 +400,7 @@
         "name": "PREMIERE",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
 	       "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d98239180d8380b3a1bb28d875b1ddf2&key%5B%5D=cf836ced579257d1c76ae8809818e6c4",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
        
         "icono": "https://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg"
       },
@@ -442,7 +442,7 @@
         "name": "NOTICIAS EN VIVO 2",
         "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
            "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1c62a216a5fe423f959cb1ca02f62d83&key%5B%5D=54f2fdc83c1da33cd9269bf21e08218c",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
       
 	"icono": "https://i.ibb.co/5Kbpjmc/Whats-App-Image-2024-04-24-at-08-34-27-2.jpg"
       },
@@ -672,7 +672,7 @@
         "name": "HUYE",
         "uri": "https://cdn.cvattv.com.ar/vod/c5eds/vod/MMMM0010000015274803-_Huye_/_/vod_dash/MMMM0010000015274803-_Huye_.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3a92fa1abee6bb233112ec9a38653de8&key%5B%5D=cd5dfbddda84d9f59f2fefd39a247600",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=3a92fa1abee6bb233112ec9a38653de8&key=cd5dfbddda84d9f59f2fefd39a247600",
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgOmr7Ejs1GxF03FbLOtsDSh1j561fvcPRSncnDd1cllNj2f9g"
       },
       {
@@ -872,28 +872,28 @@
         "name": "WARNER CHANNEL",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=069bd3f0b6c279467e08549f17bf5bd0&key%5B%5D=5afa7e369a6de1093818a85af912a775",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775",
         "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg"
       },
       {
         "name": "UNIVERSAL CHANNEL",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6cf9a13d6fd65a0f2e1cee3969aab9f5&key%5B%5D=ea61c3c1adee71b5c2e9744e41d4b75f",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
       },
       {
         "name": "TCM",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a5f44a5e30714cf3bcee7c7f15a08b4e&key%5B%5D=c3c141ae941ab9750339c3af45a65ce2",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2",
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
       },
       {
         "name": "STUDIO UNIVERSAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d9b541e3cd064d569843da42788d4263&key%5B%5D=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
         "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
       },
       {
@@ -907,42 +907,42 @@
         "name": "EUROPA EUROPA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b47f257df0314d09a7f8355c3abe1dc6&key%5B%5D=bdc9f1696a82ee7398dd3a7fa82300e2",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2",
         "icono": "https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png"
       },
         {
         "name": "CINECANAL",
         "uri": "https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5e87d24ed7b54576895548ffa65eab1d&key%5B%5D=1e5d7c9e67248af38e48ec56d2241507",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5e87d24ed7b54576895548ffa65eab1d&key=1e5d7c9e67248af38e48ec56d2241507",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png"
       },
      {
         "name": "CINECANAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6003e92dd0d9f548329015c9e15dd578&key%5B%5D=213cf85cb5f9fe569757004a77e05948",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png"
       },
       {
         "name": "TNT HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=faad1722a575f4d9ec7b774db63c879c&key%5B%5D=cf0184830344ba36ad2ffef9dd2dd9d0",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0",
         "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg"
       },
       {
         "name": "TNT SERIES",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5c14d6aeb19bf113edf91a7b544253cb&key%5B%5D=8d776d6f9c5c840ebe88d767dd731692",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692",
         "icono": "https://i.ibb.co/0Fb9ncz/descarga-7.png"
       },
       {
         "name": "TNT NOVELAS",
         "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
       },
     {
@@ -960,21 +960,21 @@
         "name": "CINEMAX",
         "uri": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=977928a92b82ba3781741a6470f8f45b&key%5B%5D=51f4e62827c128f7210b79a11587661a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=977928a92b82ba3781741a6470f8f45b&key=51f4e62827c128f7210b79a11587661a",
         "icono": "https://i.ibb.co/MZYTrkg/descarga-9.png"
       },
       {
         "name": "FX HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9ab9c42c713e0fb5517dc77cc19d6755&key%5B%5D=d8c271b82387e609b6c19e5e79240aff",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff",
         "icono": "https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg"
       },
       {
         "name": "SPACE HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0942e4ecd1bd3567e8f9447f45c20a12&key%5B%5D=efca6264f04cf7373de0c30ec79fe909",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909",
         "icono": "https://i.ibb.co/vqF1RTN/co-space-hd-m.png"
       },
 	      {
@@ -987,14 +987,14 @@
         "name": "STAR CHANNEL",
         "uri": "https://edge-live14-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8023e85ef9d17561ee1b424179b1b15e&key%5B%5D=477ad189f1fcd2baec026068107f862f",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=8023e85ef9d17561ee1b424179b1b15e&key=477ad189f1fcd2baec026068107f862f",
         "icono": "https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg"
       },
       {
         "name": "SONY CHANNEL",
         "uri": "https://edge-mix01-cte.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=fd9619f9d7c2d5115a339941279e0b4b&key%5B%5D=bf55635e6591f905659fa27ab3ca2812",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=fd9619f9d7c2d5115a339941279e0b4b&key=bf55635e6591f905659fa27ab3ca2812",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
       },
   
@@ -1002,70 +1002,70 @@
         "name": "AXN",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=03e77b5bbf5135a85d587c5af2f2f730&key%5B%5D=1dd1ab1938a791d03f09eb88478b4880",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=03e77b5bbf5135a85d587c5af2f2f730&key=1dd1ab1938a791d03f09eb88478b4880",
         "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
       },
       {
         "name": "A&E",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=db12035627a4b3d7198b761f36b4a290&key%5B%5D=80ca761a875992ac0e50b0851d5563fe",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe",
         "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
       },
       {
         "name": "TBS",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg"
       },
       {
         "name": "AMC",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1fa6a86fd80b6d1425dde74482b5dc9c&key%5B%5D=744c3636d57a651ab444cf9fe5f95b33",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=1fa6a86fd80b6d1425dde74482b5dc9c&key=744c3636d57a651ab444cf9fe5f95b33",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
       },
       {
         "name": "ISAT",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=db764164934a48749a7a01bd015694f3&key%5B%5D=512f3c8869af45e6e5dd1525b6a77867",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=db764164934a48749a7a01bd015694f3&key=512f3c8869af45e6e5dd1525b6a77867",
         "icono": "https://i.ibb.co/9NGrPbD/yl4-O9-YOo-400x400.jpg"
       },
       {
         "name": "A3SERIES",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5e34e08ae5ae440f01a03e505dd24a57&key%5B%5D=ed30cc7f5040a75d73f619320249272b",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5e34e08ae5ae440f01a03e505dd24a57&key=ed30cc7f5040a75d73f619320249272b",
         "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg"
       },
       {
         "name": "SYFY",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9cd99cbb466c42e5b33e7a2ef7e2c7df&key%5B%5D=18d9faccdaf2d15807d0a3f713e8b2a4",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9cd99cbb466c42e5b33e7a2ef7e2c7df&key=18d9faccdaf2d15807d0a3f713e8b2a4",
         "icono": "https://i.ibb.co/0QTGNzm/unnamed-9.jpg"
       },
       {
         "name": "COMEDY CENTRAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4013f784c5ef4318ad47024e61eb094e&key%5B%5D=bad433a547f97c7f65cda5e83b8dd416",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=4013f784c5ef4318ad47024e61eb094e&key=bad433a547f97c7f65cda5e83b8dd416",
         "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png"
       },
       {
         "name": "PARAMOUNT",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b85b710ecff3e38f31fc8e249b1c1cef&key%5B%5D=a1544c193dde6f8858c9358ee69a60a7",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=b85b710ecff3e38f31fc8e249b1c1cef&key=a1544c193dde6f8858c9358ee69a60a7",
         "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg"
       },
       {
         "name": "A3CINE",
         "uri": "https://chromecast.cvattv.com.arv/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d6ff881a6f07986a80d6ad6f041b57d4&key%5B%5D=b401c87c2ab11a1a488ee1c474b109ae",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d6ff881a6f07986a80d6ad6f041b57d4&key=b401c87c2ab11a1a488ee1c474b109ae",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
       },
       {
@@ -1101,28 +1101,28 @@
         "name": "WARNER CHANNEL",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=069bd3f0b6c279467e08549f17bf5bd0&key%5B%5D=5afa7e369a6de1093818a85af912a775",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775",
         "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg"
       },
       {
         "name": "UNIVERSAL CHANNEL",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6cf9a13d6fd65a0f2e1cee3969aab9f5&key%5B%5D=ea61c3c1adee71b5c2e9744e41d4b75f",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
       },
       {
         "name": "TCM",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a5f44a5e30714cf3bcee7c7f15a08b4e&key%5B%5D=c3c141ae941ab9750339c3af45a65ce2",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2",
         "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png"
       },
       {
         "name": "STUDIO UNIVERSAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_2A/Studio_Universal.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d9b541e3cd064d569843da42788d4263&key%5B%5D=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
         "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg"
       },
       {
@@ -1136,49 +1136,49 @@
         "name": "EUROPA EUROPA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b47f257df0314d09a7f8355c3abe1dc6&key%5B%5D=bdc9f1696a82ee7398dd3a7fa82300e2",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2",
         "icono": "https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png"
       },
         {
         "name": "CINECANAL",
         "uri": "https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5e87d24ed7b54576895548ffa65eab1d&key%5B%5D=1e5d7c9e67248af38e48ec56d2241507",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5e87d24ed7b54576895548ffa65eab1d&key=1e5d7c9e67248af38e48ec56d2241507",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png"
       },
      {
         "name": "CINECANAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_2A/CinecanalHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=6003e92dd0d9f548329015c9e15dd578&key%5B%5D=213cf85cb5f9fe569757004a77e05948",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
         "icono": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png"
       },
       {
         "name": "TNT HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=faad1722a575f4d9ec7b774db63c879c&key%5B%5D=cf0184830344ba36ad2ffef9dd2dd9d0",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0",
         "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg"
       },
       {
         "name": "TNT SERIES",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_2A/TNTSeries.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5c14d6aeb19bf113edf91a7b544253cb&key%5B%5D=8d776d6f9c5c840ebe88d767dd731692",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692",
         "icono": "https://i.ibb.co/0Fb9ncz/descarga-7.png"
       },
       {
         "name": "TNT NOVELAS",
         "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
       },
       {
         "name": "PASIONES",
         "uri": "https://edge-live01-bel.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d41cf825e878f0d8e276218af7f5b7e1&key%5B%5D=13d1b73ab578ab8623be9347bcf8972a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d41cf825e878f0d8e276218af7f5b7e1&key=13d1b73ab578ab8623be9347bcf8972a",
         "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
       },
       {
@@ -1191,35 +1191,35 @@
         "name": "CINEMAX",
         "uri": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=977928a92b82ba3781741a6470f8f45b&key%5B%5D=51f4e62827c128f7210b79a11587661a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=977928a92b82ba3781741a6470f8f45b&key=51f4e62827c128f7210b79a11587661a",
         "icono": "https://i.ibb.co/MZYTrkg/descarga-9.png"
       },
       {
         "name": "FX HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9ab9c42c713e0fb5517dc77cc19d6755&key%5B%5D=d8c271b82387e609b6c19e5e79240aff",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff",
         "icono": "https://i.ibb.co/4MpBMnc/channels4-profile-4.jpg"
       },
       {
         "name": "SPACE HD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0942e4ecd1bd3567e8f9447f45c20a12&key%5B%5D=efca6264f04cf7373de0c30ec79fe909",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909",
         "icono": "https://i.ibb.co/vqF1RTN/co-space-hd-m.png"
       },
       {
         "name": "STAR CHANNEL",
         "uri": "https://edge-live14-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8023e85ef9d17561ee1b424179b1b15e&key%5B%5D=477ad189f1fcd2baec026068107f862f",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=8023e85ef9d17561ee1b424179b1b15e&key=477ad189f1fcd2baec026068107f862f",
         "icono": "https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg"
       },
       {
         "name": "SONY CHANNEL",
         "uri": "https://edge-mix01-cte.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=fd9619f9d7c2d5115a339941279e0b4b&key%5B%5D=bf55635e6591f905659fa27ab3ca2812",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=fd9619f9d7c2d5115a339941279e0b4b&key=bf55635e6591f905659fa27ab3ca2812",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
       },
   
@@ -1227,70 +1227,70 @@
         "name": "AXN",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=03e77b5bbf5135a85d587c5af2f2f730&key%5B%5D=1dd1ab1938a791d03f09eb88478b4880",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=03e77b5bbf5135a85d587c5af2f2f730&key=1dd1ab1938a791d03f09eb88478b4880",
         "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
       },
       {
         "name": "A&E",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=db12035627a4b3d7198b761f36b4a290&key%5B%5D=80ca761a875992ac0e50b0851d5563fe",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe",
         "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
       },
       {
         "name": "TBS",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg"
       },
       {
         "name": "AMC",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1fa6a86fd80b6d1425dde74482b5dc9c&key%5B%5D=744c3636d57a651ab444cf9fe5f95b33",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=1fa6a86fd80b6d1425dde74482b5dc9c&key=744c3636d57a651ab444cf9fe5f95b33",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
       },
       {
         "name": "ISAT",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_2A/ISAT.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=db764164934a48749a7a01bd015694f3&key%5B%5D=512f3c8869af45e6e5dd1525b6a77867",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=db764164934a48749a7a01bd015694f3&key=512f3c8869af45e6e5dd1525b6a77867",
         "icono": "https://i.ibb.co/9NGrPbD/yl4-O9-YOo-400x400.jpg"
       },
       {
         "name": "A3SERIES",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_2A/A3_Series.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5e34e08ae5ae440f01a03e505dd24a57&key%5B%5D=ed30cc7f5040a75d73f619320249272b",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5e34e08ae5ae440f01a03e505dd24a57&key=ed30cc7f5040a75d73f619320249272b",
         "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg"
       },
       {
         "name": "SYFY",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/SyFy/SA_Live_dash_enc_2A/SyFy.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9cd99cbb466c42e5b33e7a2ef7e2c7df&key%5B%5D=18d9faccdaf2d15807d0a3f713e8b2a4",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9cd99cbb466c42e5b33e7a2ef7e2c7df&key=18d9faccdaf2d15807d0a3f713e8b2a4",
         "icono": "https://i.ibb.co/0QTGNzm/unnamed-9.jpg"
       },
       {
         "name": "COMEDY CENTRAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_2A/ComedyCentral.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4013f784c5ef4318ad47024e61eb094e&key%5B%5D=bad433a547f97c7f65cda5e83b8dd416",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=4013f784c5ef4318ad47024e61eb094e&key=bad433a547f97c7f65cda5e83b8dd416",
         "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png"
       },
       {
         "name": "PARAMOUNT",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_2A/Paramount.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b85b710ecff3e38f31fc8e249b1c1cef&key%5B%5D=a1544c193dde6f8858c9358ee69a60a7",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=b85b710ecff3e38f31fc8e249b1c1cef&key=a1544c193dde6f8858c9358ee69a60a7",
         "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg"
       },
       {
         "name": "A3CINE",
         "uri": "https://chromecast.cvattv.com.arv/live/c7eds/A3_Cine/SA_Live_dash_enc_2A/A3_Cine.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d6ff881a6f07986a80d6ad6f041b57d4&key%5B%5D=b401c87c2ab11a1a488ee1c474b109ae",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d6ff881a6f07986a80d6ad6f041b57d4&key=b401c87c2ab11a1a488ee1c474b109ae",
         "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg"
       },
       {
@@ -1380,14 +1380,14 @@
         "name": "HBO FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5317283f4110fac3fb3a0becd9f648bc&key%5B%5D=0754a03c926b1247216e01d9dbcfac28",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5317283f4110fac3fb3a0becd9f648bc&key=0754a03c926b1247216e01d9dbcfac28",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
       {
         "name": "HBO 2 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c90cc57ad2c436e5a77db2f8d9db2d85&key%5B%5D=04f6c73984bdcffd013050608497935d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
       }
 	]
@@ -1399,63 +1399,63 @@
         "name": "HBO FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5317283f4110fac3fb3a0becd9f648bc&key%5B%5D=0754a03c926b1247216e01d9dbcfac28",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5317283f4110fac3fb3a0becd9f648bc&key=0754a03c926b1247216e01d9dbcfac28",
         "icono": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg"
       },
       {
         "name": "HBO 2 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c90cc57ad2c436e5a77db2f8d9db2d85&key%5B%5D=04f6c73984bdcffd013050608497935d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png"
       },
       {
         "name": "HBO XTREME FLOW",
         "uri": "https://edge-live01-cen.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d504011bbef467c0de3a7534e302a6d4&key%5B%5D=334103e2abe16faa7f9ab2e3097c5a58",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58",
         "icono": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png"
       },
       {
         "name": "HBO XTREME2 FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d504011bbef467c0de3a7534e302a6d4&key%5B%5D=334103e2abe16faa7f9ab2e3097c5a58",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58",
 		"icono": "https://i.postimg.cc/T2g6Mq1c/hbo-xtreme-logo-D424105400-seeklogo-com.png" 
       },
       {
         "name": "HBO FAMILY FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=535473132f68082160b489482ca35f8e&key%5B%5D=e90fd91fcd3fc809bed2b1c0d37f7297",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=535473132f68082160b489482ca35f8e&key=e90fd91fcd3fc809bed2b1c0d37f7297",
         "icono": "https://i.ibb.co/DMn0KSH/descarga-2.png"
       },
       {
         "name": "HBO SIGNATURE FLOW",
         "uri": "https://chromecast.cvattv.com.ar/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e866499fbc1149f49989672075aa3a68&key%5B%5D=d2dd5c95623c6343240981c2202fc311",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e866499fbc1149f49989672075aa3a68&key=d2dd5c95623c6343240981c2202fc311",
         "icono": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png"
       },
       {
         "name": "HBO MUNDI FLOW",
         "uri": "https://edge-vod04-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7821b2662148fe333d5191acbb8a5c1f&key%5B%5D=ae43f3e2545237ebda58b13813b5d328",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=7821b2662148fe333d5191acbb8a5c1f&key=ae43f3e2545237ebda58b13813b5d328",
         "icono": "https://i.ibb.co/dJjRPzB/ar-max-m.png"
       },
       {
         "name": "HBO PLUS FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f0e7f7d458990edfab7b98b412564615&key%5B%5D=79205754b7f84a62661c2dbe9de5dd5d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d",
         "icono": "https://i.ibb.co/1qcpR0T/ar-hbo-plus-panamericano-hd-m.png"
       },
       {
         "name": "HBO POP FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4e1ce5cef7e9a110fe968f8881b21fa&key%5B%5D=6bbe2062b150b11496cdd5fbdd9c89d6",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6",
         "icono": "https://i.ibb.co/VmTj2tv/ar-max-up-m.png"
         }
     ]
@@ -1470,7 +1470,7 @@
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
   
 	"drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f6ae2e17173055e4ca69dc18963406ae&key%5B%5D=5a955c29eb88a0b4c9a2538cc4b3aea2",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
     "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd"
   },
 {
@@ -1479,7 +1479,7 @@
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9620/CH_LOGO/42891751076948.png",
   
 	"drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=062c5d25105a3a935b67e36923c73f28&key%5B%5D=88c2d4cec420f18d2477152c66c7870d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd"
   },
   {
@@ -1487,14 +1487,14 @@
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9621/CH_LOGO/19452290076949.png",
   
 	  "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=1efd7edf60e1514f775dd13d046ae708&key%5B%5D=c2ef1abbd945c62c11b1375eaaa50f0d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd"
   },
   {
     "name": "UNIVERSAL PREMIERE FLOW",
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9617/CH_LOGO/63649726076950.png",
 	  "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0eb20b51ad13b58ad417f11318e588b3&key%5B%5D=ad5d29a33d73d21187157802de8e6097",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd"
   },
   {
@@ -1502,7 +1502,7 @@
  
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9619/CH_LOGO/82170339076951.png",
 	  "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cedd9c1a5c2ae43f80ee3197212016d6&key%5B%5D=bf47a3c39e164a97ea6adc4c8dd57435",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd"
   },
 	   {
@@ -1570,7 +1570,7 @@
           "name": "MOVISTAR ACCION",
         "uri": "https://cajablanca.dedyn.io/movistar/juanorange/4542/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=95af74d5fb594fd58b856a6d743cf77f&key%5B%5D=6494036d424881de28c0a7c9f3a1a19a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=95af74d5fb594fd58b856a6d743cf77f&key=6494036d424881de28c0a7c9f3a1a19a",
         "icono": "https://ibb.co/Rg4Sz7p"
       },
        {
@@ -1598,49 +1598,49 @@
         "name": "HISTORY",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_2A/HistoryHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e82318e518ba70cea3d7b37bef99e692&key%5B%5D=a05fcb634c071a514e3039e1c274b4db",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db",
         "icono": "https://i.postimg.cc/hjx19JJb/history.png"
       },
       {
         "name": "HISTORY 2",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_2A/History_2.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ecbe97ec34784304b390a12ba3854ccf&key%5B%5D=5a0ee36ed9b8920cb19546fd92f2d415",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=ecbe97ec34784304b390a12ba3854ccf&key=5a0ee36ed9b8920cb19546fd92f2d415",
         "icono": "https://i.ibb.co/jkfB4HH/H2-logo.webp"
       },
       {
         "name": "DISCOVERY",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c283c84a7af0d7c8b9b612a8fb22a001&key%5B%5D=f45510c721eebd6eaa86a2e16ccbd77d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d",
         "icono": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
       },
       {
         "name": "DISCOVERY H&H",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_2A/DiscoveryHomeHealthHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9b0a76dd7a0df1e1b4320aeb1254d1a9&key%5B%5D=d011267775c38d6d2ab09b428c03d63f",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
         "icono": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
       },
       {
         "name": "DISCOVERY ID",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_2A/ID.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=0956caf2e2bd41f49fdcead7cc94fe24&key%5B%5D=640c49578073a911938617eb4e652d6c",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c",
         "icono": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0"
       },
       {
         "name": "DISCOVERY SCIENCE",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=46ba409fb04e40fb86b466d97e3a9588&key%5B%5D=f129fb9b5d213e20e2abe529b8cf2597",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597",
         "icono": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg"
       },
       {
         "name": "DISCOVERY TURBO",
         "uri": "http://edge-live12-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_2A/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a611ddbf8c15fa617a0c391cb7b3e128&key%5B%5D=0cd1300baf8890380fd41124962195c4",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=a611ddbf8c15fa617a0c391cb7b3e128&key=0cd1300baf8890380fd41124962195c4",
         "icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
       },
 
@@ -1649,7 +1649,7 @@
         "name": "DISCOVERY TEATER",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5279c05ea51c4dae8e7fa6be88448089&key%5B%5D=b28dfafba4b848dfd5d7c177ebf19108",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=b28dfafba4b848dfd5d7c177ebf19108",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
       },
 
@@ -1658,7 +1658,7 @@
         "name": "DISCOVERY TLC",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=58761c7b2819491eb3a0d765842c341a&key%5B%5D=9dabc48f88bd7f266734e57501bd6f47",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
       },
 	
@@ -1666,14 +1666,14 @@
         "name": "DISCOVERY WORL",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=34ee94c2263345f7a3a590661264e490&key%5B%5D=56757d656a697ab7a2e5e083b5d21bb5",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
         "icono": "https://i.postimg.cc/B6SqZzrg/ver-discovery-world-en-vivo.jpg"
       },
       {
         "name": "ANIMALPLANET",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4146a8ecbb0540dc807c6389ee87e0bc&key%5B%5D=0c3cdc1b3e4617c57361265e9fa4c5bd",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png"
        }
     ]
@@ -1779,56 +1779,56 @@
         "name": "PAKA PAKA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=334001b2f2644df9bdf35e92d2b89f8f&key%5B%5D=475ec87d86ed0636dbb6d6d9d4a43bb7",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
         "icono": "https://i.postimg.cc/761GJTfR/maxresdefault.jpg"
       },
       {
         "name": "CartoonNetwork",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d7df56efaa36a71141d238854cc46d1d&key%5B%5D=8abb2ee9150d8b2af8ebec0de0f833c8",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=d7df56efaa36a71141d238854cc46d1d&key=8abb2ee9150d8b2af8ebec0de0f833c8",
         "icono": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png"
       },
       {
         "name": "Nick Jr",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e824b2277a86fd6adfc40aa948e5064a&key%5B%5D=28da2dbbe8e1a1463bbb23895b922083",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083",
         "icono": "https://i.postimg.cc/h41czR0h/image.png"
       },
       {
         "name": "Tooncast",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=10638a722eb54c64bfb0e7a77483686a&key%5B%5D=41a7d3d522e19215b7e8f611b6902d61",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=10638a722eb54c64bfb0e7a77483686a&key=41a7d3d522e19215b7e8f611b6902d61",
         "icono": "https://i.postimg.cc/3Nmh9zsf/image.png"
       },
       {
         "name": "Disney Channel",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4a742e478d14023e1993e011d9415f94&key%5B%5D=0df77ede9bc744376836d21afa137dda",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
         "icono": "https://i.postimg.cc/RZfs2zG4/Disney-Channel-2014-HD.png"
       },
       {
         "name": "Discovery Kids",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ffb2f0f63c23a3592d4653e938b9ca19&key%5B%5D=d3661ae881fc55fc7a15815cd439747b",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
         "icono": "https://i.postimg.cc/hj7f1pcy/Discovery-kids-logo.png"
       },
       {
         "name": "Nickelodeon",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=61c18cefecc2d067beaa9ff181305345&key%5B%5D=38d6f650cbf9a38fd9f35c01f98e647a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a",
         "icono": "https://i.postimg.cc/25R4KWLH/1014321.png"
       },
       {
         "name": "Boomerang",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5792e613fceb699c79cbc0e75fe4cd37&key%5B%5D=a672793730476ed23e5c1bce2ff570c6",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
         "icono": "https://i.postimg.cc/6Q8dFVBR/1200px-Boomerang-2014-logo-svg.png"
       },
       {
@@ -1845,42 +1845,42 @@
         "name": "MTV HITS",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=61008dfc867544cd872de99b1f2b82cf&key%5B%5D=716449756316b91c54803aaa22a2fbf0",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png"
       },
       {
         "name": "ESENCIALES VORTERIX",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=eabe2c22350c26c7f0ad84b34932f08d&key%5B%5D=39fa06836ec0f81d8dd9b6e01a3070e3",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=eabe2c22350c26c7f0ad84b34932f08d&key=39fa06836ec0f81d8dd9b6e01a3070e3",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
       },
       {
         "name": "EN ALTA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a354b0c82a3a720c4a6f52ed5a1190f4&key%5B%5D=45a76dcc84f058cfabc8b958d7303b28",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuXpg2iXCKbblA1tSg8Grd0E4T-cfHFm9_Gat3S8&s"
       },
       {
         "name": "CANAL DE MUSICA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=682f36b5736f4560951ca14b80d29524&key%5B%5D=3accb729067a39b3b8143f1b447b9d25",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
         "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
       },
       {
         "name": "CM MUSIC",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=682f36b5736f4560951ca14b80d29524&key%5B%5D=3accb729067a39b3b8143f1b447b9d25",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQs2XoXN3loMr6UTK_y_DVpVtxWP9AxwAymBO2Hp9&s"
       },
       {
         "name": "HTV",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=daecef5fe32f4ce083c6a0c692755d6a&key%5B%5D=d4227f24389a9ba77293214b93eb0d7d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
          }
     ]
@@ -1909,28 +1909,28 @@
         "name": "TV CAMARA",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9357704ade444dc3b23be89865af2f58&key%5B%5D=3d03e0a79d8f7b7aa2897c3d24bd4b6a",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9357704ade444dc3b23be89865af2f58&key=3d03e0a79d8f7b7aa2897c3d24bd4b6a",
         "icono": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_08/large.g13305.png.ad5810ef4a29f3fe78a42374b0e7107e.png"
       },
     {
         "name": "SUR TV",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=988ae4e8408981609ded9f8b23bbf79d&key%5B%5D=b867c66791bcad67ee142be1e21c2577",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png"
       },
      {
         "name": "PARAVISION",
         "uri": "https://edge-live01-mun.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bd8e8c9b32ef027e8ff4ff0cfce855a4&key%5B%5D=2918e9893b570c3fa1f215b52a12cc91",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
         "icono": "https://tv-libre.com/img/paravision.webp"
       },
 	      {
         "name": "SNT FLOW",
         "uri": "https://chromecast.cvattv.com.ar//live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=9f61dcce871cc41aeb206d05028fc30a&key%5B%5D=9f6248194a3bf5e35b96b194e8624693",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
         "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
       },
        {
@@ -1942,7 +1942,7 @@
         "name": "TELEFUTURO FLOW 4",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5d2731cf8a59b73438ef59d88cd882bf&key%5B%5D=3f412fa6368b7db4903588de695377e1",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
       },
  
@@ -1951,7 +1951,7 @@
         "name": "RPC",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=a8093cdcb2d504bd38f16764bd21b6e5&key%5B%5D=bfcf3b033b5f0b5ae020751a6746326f",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
         "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
       },
     
@@ -1960,7 +1960,7 @@
         "name": "UNICANAL",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=63a3729cfd60f24f7e1266bee5eca02c&key%5B%5D=cb9ed028af40654e1aa43934ee58db58",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
         "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
       },
       {
@@ -1974,7 +1974,7 @@
         "name": "PARAGUAY TV FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=68a5bd6c58e6c05bacfd18d3feec31f2&key%5B%5D=ae23f8357512df2dfabcb8104b078182",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=68a5bd6c58e6c05bacfd18d3feec31f2&key=ae23f8357512df2dfabcb8104b078182",
         "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
       },
 
@@ -1983,14 +1983,14 @@
         "name": "CANALPRO PY",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8df0f1a1e05e9c6a438e23a87c9d06ea&key%5B%5D=5df74d374a2a8a871463e7c438fa3ba7",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=8df0f1a1e05e9c6a438e23a87c9d06ea&key=5df74d374a2a8a871463e7c438fa3ba7",
         "icono": "https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg"
       },
       {
         "name": "5 DIAS PY",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_2A/5_Dias_PY.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=746091c502edcf1e9d003535ce01f3e4&key%5B%5D=29081b5f92d1a37c88fbbd0ece55c839",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=746091c502edcf1e9d003535ce01f3e4&key=29081b5f92d1a37c88fbbd0ece55c839",
         "icono": "https://i.ibb.co/Pg6v5zn/images.png"
       },
       {
@@ -2013,7 +2013,7 @@
         "name": "NPY FLOW",
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8f66fe15735b2b1b3d5eb3646caa405e&key%5B%5D=404b93fd7b499b1061c9a714e1cdb2d0",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
         "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
       },
     
@@ -2021,7 +2021,7 @@
         "name": "PARAVISION 2",
         "uri": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bd8e8c9b32ef027e8ff4ff0cfce855a4&key%5B%5D=2918e9893b570c3fa1f215b52a12cc91",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
         "icono": "https://i.ibb.co/6w67s6W/descarga.jpg"
       },
   
@@ -2029,7 +2029,7 @@
         "name": "C9N FLOW",
         "uri": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=646700eeb14cadfa0543a20cf413d37e&key%5B%5D=4fc037c462023764624d8446442cbbca",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
         "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
       },
   
@@ -2037,7 +2037,7 @@
         "name": "GEN TV ",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49eb924ba998ca7fbbaee30dcef1ecb4&key%5B%5D=6e131b04b2e87598fb588ac205673698",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
         "icono": "https://i.ibb.co/k2XNPqR/channels4-profile.jpg"
       },
   
@@ -2045,7 +2045,7 @@
         "name": "LA TELE ",
         "uri": "https://edge-mix02-ird.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c6a481adf6a080ec09637d3f25989cf&key%5B%5D=036e343d636b821ab81838de387b62cb",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb",
         "icono": "https://i.ibb.co/R7c5mZN/latele-1.jpg"
       },
       {
@@ -2085,7 +2085,7 @@
         "name": "SBT MPD",
         "uri": "https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3ad3dca103185934acff7a0e9000c112&key%5B%5D=3f396659d841a55cd1381e6735ecfa1d",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=3ad3dca103185934acff7a0e9000c112&key=3f396659d841a55cd1381e6735ecfa1d",
         "icono": "https://th.bing.com/th/id/OIP.67LyxXZUbdBDQ5iXEfnNAgHaEK?w=258&h=180&c=7&r=0&o=5&pid=1.7"
       },
      {
@@ -2145,7 +2145,7 @@
         "name": "TELEFE",
         "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
 	"drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3cec1b1ea9799dda5596e64f37e5ed20&key%5B%5D=c69f3afde2085dcaaaddbf55246a0323",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
         "icono": "https://i.ibb.co/JHHx4HH/e1dc8733904ec35e5d081ebbf0eb2d64-750x400.gif"
       },
       
@@ -2163,14 +2163,14 @@
         "name": "CANAL 9 ",
         "uri": "http://edge-live17-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=24f4ff211136ae6512a1b552200db405&key%5B%5D=602122f8426c5c942b8c18d299cc6020",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "icono": "https://i.ibb.co/cvLm0JB/canal9.jpg"
       },
       {
         "name": "AMERICA TV ",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8ea235ce0826408b221c498115a9b62d&key%5B%5D=7aa9266ed91ea4510483370029dfcf45",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
         "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg"      
       },
      
@@ -2178,49 +2178,49 @@
         "name": "TV PUBLICA",
      "uri": "https://edge-live16-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=cc8c82ac2ec7e9799527c29db7354e81&key%5B%5D=cc4aae173dd2ef17ae26be3f7ae87662",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg"
       },
       {
         "name": "C5N",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=050df5c6e78c774e78c3e99eef8a1b29&key%5B%5D=0e4141d6ab21a36cbc4da777ab3096d4",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
         "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg"
       },
       {
         "name": "TN NOTICIAS",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7ceb1cd0622cd7e88fcdc99fe3a55de6&key%5B%5D=951637093d41c7388a1ef3f620cfea21",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
         "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg"
       },
       {
         "name": "LN+ - LA NACION",
         "uri": "http://edge-live17-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4eade7bbc39b25402acfa301bbad04a&key%5B%5D=a74d1df4235a74878327aa8d53ff283c",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
         "icono": "https://www.conclusion.com.ar/wp-content/uploads/2016/11/la-nacion-m%C3%A1s.jpg"
       },
       {
         "name": "CRONICA TV",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=745e7abcc90d41ab706b2ac2f4371da3&key%5B%5D=50acd9d19d1361cb4a8a13a867bdc352",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
         "icono": "https://i.ibb.co/vvptksh/maxresdefault.jpg"
       },
       {
         "name": "A24",
         "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=3b1b027dd011af20fd9956c16dc084fb&key%5B%5D=45f75aacf06593c9b693fe427c67e5b8",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
         "icono": "https://i.ibb.co/z2QvG13/Logo-a24.jpg"
       },
       {
         "name": "CANAL 26",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e32aaa4b67430b3b51be1efce5a74ac5&key%5B%5D=ad60c5e1d378a97271bf8688f094d092",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
       },
       {
@@ -2232,14 +2232,14 @@
         "name": "BRAVO TV",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ad7fbbec39cea4a5a63ac13d94da48d4&key%5B%5D=f71087b4dc211db079237c0fb783eb93",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
         "icono": "https://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg"
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
         "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e32aaa4b67430b3b51be1efce5a74ac5&key%5B%5D=ad60c5e1d378a97271bf8688f094d092",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
         "icono": "https://i.ibb.co/G0zCDL0/descarga-1.png"
       },
       {
@@ -2256,21 +2256,21 @@
         "name": "VOLVER",
         "uri": "https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=194e53184a424ce6989ad82c5f28fbc5&key%5B%5D=65d60c5cc4de031172be0a6a51edbdfe",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe",
         "icono": "https://i.ibb.co/ZNRV2BF/descarga-3.jpg"
       },
       {
         "name": "CIUDAD MAGAZINE",
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=4f1235069d34c22cb73d9b78bae15587&key%5B%5D=55e068ff6b152e34c66dc639b38e8692",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
         "icono": "https://i.ibb.co/1Tnfy2J/5909cf1f851d6-838x390.jpg"
       },
       {
         "name": "ENCUENTRO TV",
         "uri": "https://edge-live31-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
 	"drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=ac3ae78beb64478ab390b4ad70e3e0c9&key%5B%5D=c7d669761c3516d852a0edf9e07c9198",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198",
         "icono": "https://i.ibb.co/WVrgyCt/unnamed-2.jpg"
       },
    
@@ -2419,7 +2419,7 @@
         "name": "CANAL 12 CORDOBA",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=90422640d3e846159fa450f83870ed4a&key%5B%5D=abb3cd94aece1a462df25a8f21085cca",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
         "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
       },
       {
@@ -2531,7 +2531,7 @@
         "name": "TNT NOVELAS",
         "uri": "https://edge-live02-mun.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
+        "drm_license_uri": "https://pablipintos.top/php/clearkey_hextobase64/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
       },
       {
